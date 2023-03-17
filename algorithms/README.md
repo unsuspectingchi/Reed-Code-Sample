@@ -4,7 +4,7 @@ Each cpp/hpp problem file is a different algorithmic puzzle that I solved with C
 
 ## Problems 1 & 2
 
-Problems 1 and 2 are the first and second problems taken from the **MIT primes 2022 Computer Science Problem Set** accessable [_here_](https://math.mit.edu/research/highschool/primes/materials/2022/CSproblems2022.pdf).
+Problems 1 and 2 are the first and second problems taken from the **MIT PRIMES 2022 Computer Science Problem Set** accessable [_here_](https://math.mit.edu/research/highschool/primes/materials/2022/CSproblems2022.pdf).
 
 The goal of these problems was to finish them quickly in order to complete as many as possible before the PRIMES deadline, and therefore the algorithms did not prioritize optimization.
 
